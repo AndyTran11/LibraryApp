@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Library</string>
+    <string name="search_hint">Enter search text</string>
+    <string name="title_marker">Book Title</string>
+    <string name="author_marker">Author</string>
+    <string name="date_marker">Date</string>
+    <string name="pages_marker">Number of pages</string>
+    <string name="subtitle_marker">Subtitle</string>
+    <string name="description_marker">Description</string>
+</resources>
